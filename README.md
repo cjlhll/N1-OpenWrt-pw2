@@ -1,4 +1,4 @@
-![固件预览](https://raw.githubusercontent.com/cjlhll/N1-OpenWrt-passwall2/master/preview.png)
+![固件预览]([https://raw.githubusercontent.com/cjlhll/N1-OpenWrt-passwall2/master/preview.png](https://github.com/cjlhll/N1-OpenWrt-SSRP/blob/master/preview.png))
 固件适配情况：  
 &emsp;&emsp;本固件目前专为N1的网关服务器(旁路由)模式适配，已添加必要的iptables规则并进行了较大力度的精简。  
 >本固件默认只支持IPV4，且不能进行PPPOE拨号。
