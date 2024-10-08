@@ -17,8 +17,8 @@ git clone https://github.com/sbwml/luci-app-alist package/new/alist/luci-app-ali
 # => 阿里ddns
 git clone https://github.com/chenhw2/luci-app-aliddns.git package/luci-app-aliddns
 
-# => ssr plus
-git clone --depth=1 https://github.com/fw876/helloworld.git package/helloworld
+# => openclash
+git clone https://github.com/vernesong/OpenClash.git --depth 1 package/openclash
 
 # => 删除默认argon主题
 rm -rf feeds/luci/themes/luci-theme-argon
